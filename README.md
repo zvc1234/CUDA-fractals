@@ -1,3 +1,3 @@
 # CUDA-fractals
 
-The project represents a CUDA programm that generates a fractal.
+The project represents a CUDA program that generates a fractal.
